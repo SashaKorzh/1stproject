@@ -1,0 +1,31 @@
+.main1{
+	width: 40%;
+	height: 700px;
+	justify-content: flex;
+
+}
+.flex-container1{
+	background-color: #42f474;
+	height: 20%;
+	width: 100%;
+}
+.flex-container2{
+	background-color: #42f4eb;
+	height: 20%;
+	width: 100%;
+}
+.flex-container3{
+	background-color: #f4cd41;
+	height: 20%;
+	width: 100%;
+}
+.flex-container4{
+	background-color: #f47341;
+	height: 20%;
+	width: 100%;
+}
+.flex-container5{
+	background-color: #f44155;
+	height: 20%;
+	width: 100%;
+}
